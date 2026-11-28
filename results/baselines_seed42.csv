@@ -1,0 +1,5 @@
+model,split,seed,accuracy,f1
+TF-IDF + Naive Bayes,default,42,84.4,83.7
+TF-IDF + Random Forest,default,42,86.6,85.9
+TF-IDF + Naive Bayes,fewshot,42,71.0,73.7
+TF-IDF + Random Forest,fewshot,42,69.6,59.8
