@@ -1,0 +1,11 @@
+model,split,seed,language,n,accuracy
+XLM-RoBERTa,default,42,Chinese,397,95.7
+XLM-RoBERTa,default,42,English,400,97.5
+XLM-RoBERTa,default,42,French,400,96.8
+XLM-RoBERTa,default,42,German,400,96.5
+XLM-RoBERTa,default,42,Italian,400,97.0
+XLM-RoBERTa,default,42,Korean,400,95.8
+XLM-RoBERTa,default,42,Romanian,400,95.5
+XLM-RoBERTa,default,42,Russian,400,97.5
+XLM-RoBERTa,default,42,Spanish,400,98.5
+XLM-RoBERTa,default,42,Turkish,400,96.5

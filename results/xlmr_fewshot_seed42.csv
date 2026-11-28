@@ -1,0 +1,2 @@
+model,split,seed,accuracy,f1
+XLM-RoBERTa,fewshot,42,81.4,82.0

@@ -1,0 +1,11 @@
+model,split,seed,language,n,accuracy
+XLM-RoBERTa,fewshot,42,Chinese,1966,80.1
+XLM-RoBERTa,fewshot,42,English,1980,77.8
+XLM-RoBERTa,fewshot,42,French,1980,83.0
+XLM-RoBERTa,fewshot,42,German,1980,83.9
+XLM-RoBERTa,fewshot,42,Italian,1980,79.0
+XLM-RoBERTa,fewshot,42,Korean,1980,76.1
+XLM-RoBERTa,fewshot,42,Romanian,1980,86.1
+XLM-RoBERTa,fewshot,42,Russian,1980,77.5
+XLM-RoBERTa,fewshot,42,Spanish,1980,83.6
+XLM-RoBERTa,fewshot,42,Turkish,1980,87.2
