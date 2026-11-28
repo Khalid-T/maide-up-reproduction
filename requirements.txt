@@ -1,0 +1,12 @@
+# Python 3.14.10. Versions are the ones the reported results were produced with.
+numpy==2.5.5
+pandas==3.1.1
+scikit-learn==1.9.1
+scipy==1.18.1
+torch==2.15.0
+transformers==5.24.1
+tokenizers==0.23.3
+accelerate==1.16.0
+sentencepiece==0.2.3
+safetensors==0.8.0
+huggingface_hub==2.5.0
